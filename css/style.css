@@ -614,6 +614,10 @@ header .navbar .dropdown-menu a {
   background-size: cover;
 }
 
+.img-fluid {
+  width: 100%;
+}
+
 @media (max-width: 991.98px) {
   .img-md-fluid {
     max-width: 100%;
